@@ -58,13 +58,13 @@ We focus on demonstrating **distributed-system characteristics**—**auto-scalin
 
 ---
 
-## **$$:: 📬 Results & Findings**
+## 📬 Results & Findings**
 
 After running the pipeline, the system categorized Reddit submissions into positive, negative, and neutral sentiments and saved a CSV of results. The orchestration of containers/pods in Kubernetes can be traced via CloudWatch logs during and after execution.
 
 ---
 
-## **$$:: 📚 References**
+## 📚 References**
 
 - Project Report excerpts (system/services, dataset scale & timeline, results & monitoring). :contentReference[oaicite:16]{index=16}  
 - Presentation slides excerpts (component summaries; distributed characteristics). :contentReference[oaicite:17]{index=17}
